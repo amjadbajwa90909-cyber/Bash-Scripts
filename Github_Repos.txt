@@ -1,0 +1,10 @@
+https://github.com/openai/gym.git
+https://github.com/torvalds/linux.git
+https://github.com/python/cpython.git
+https://github.com/nodejs/node.git
+https://github.com/microsoft/vscode.git
+https://github.com/tensorflow/tensorflow.git
+https://github.com/pallets/flask.git
+https://github.com/django/django.git
+https://github.com/psf/requests.git
+https://github.com/numpy/numpy.git
